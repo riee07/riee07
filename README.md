@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋, I'm Fakhri mubarok and i'm a back end developer from indonesia, よろしくお願いします 😎👌</h2>
+<h2 align="left">Hi 👋, I'm Fakhri mubarok and i'm a back end developer, よろしくお願いします 😎👌</h2>
 
 ###
 
