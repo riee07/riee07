@@ -30,15 +30,71 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <h5 align="left">⚡ Database 🔝</h5>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo">
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30" alt="sqlite logo">
+
+  ###
+
+  <h5 align="left">🖍 Design 🔝</h5>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" height="30" alt="canva">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+  " height="30" alt="figma">
+
+  ###
+
+   <h5 align="left">🚀 Frameworks & Library 🔝</h5> 
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+  " height="30" alt=""> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+  " height="30" alt="">
+
+  ###
+  
+   <h5 align="left">🤜 Group 🔝</h5>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+  " height="30" alt="">
+
+
+  ###
+
+   <h5 align="left">👩‍💻 IDE 🔝</h5>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+  " height="30" alt="">
+
+  ###
+
+   <h5 align="left">👩‍💻 Languages 🔝</h5>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+  " height="30" alt="">
+
+  ###
+
+   <h5 align="left">👨‍💻 Office 🔝</h5>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+  " height="30" alt="">
+
+  ###
+
+   <h5 align="left">💻 Terminal 🔝</h5>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+  " height="30" alt="">
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white
+  " height="30" alt="">
+  <img src="" height="30" alt="">
+
 </div>
 
 ###
@@ -55,6 +111,10 @@ Here are some ideas to get you started:
   </a>
   <a href="https://facebook.com/Pea.Pea" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://github.com/riee07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+    " height="35" alt="">
   </a>
 </div>
 
