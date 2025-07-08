@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">My name is Fakhri mubarok 😉 and I'm a back end Dev🤩, from Indonesia-Bogor 👌</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riee07/riee07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riee07/riee07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/riee07/riee07/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/riee07/riee07/output/snake.svg" alt="Snake animation" />
+
+###
